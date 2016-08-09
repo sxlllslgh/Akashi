@@ -1,0 +1,12 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:s="clr-namespace:System;assembly=mscorlib">
+    <s:String x:Key="title">明石</s:String>
+    <s:String x:Key="menu_file">文件(_F)</s:String>
+    <s:String x:Key="menu_file_save">保存</s:String>
+    <s:String x:Key="php_cgi_path_label">PHP-CGI路径：</s:String>
+    <s:String x:Key="nginx_path_label">Nginx路径：</s:String>
+    <s:String x:Key="run">运行</s:String>
+    <s:String x:Key="stop">停止</s:String>
+    <s:String x:Key="restart">重启</s:String>
+</ResourceDictionary>
